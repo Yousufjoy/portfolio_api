@@ -26,7 +26,7 @@
     "image": "https://i.ibb.co/WzJ2sg7/bd.png",
     "text": "Tailwind Css, Reactjs , Daisy UI ",
     "title": "Donation Campaign",
-    "description": "Developed a user-friendly blood donation website having search functionality",
+    "description": "Created an intuitive blood donation website featuring a search function.",
     "subtitle": "A back-end project",
     "buttons": {
       "live": "https://651453089d39cd1044d077fc--harmonious-llama-36197e.netlify.app/",
@@ -37,7 +37,7 @@
     "image": "https://i.ibb.co/D9jHQ8F/pht.png",
     "text": "Tailwind css, JS ",
     "title": "PH Tube",
-    "description": "Using vanilla js sorting functionality added to this movie site",
+    "description": "Added sorting functionality to this movie site using vanilla JavaScript",
     "subtitle": "A back-end project",
     "buttons": {
       "live": "https://64f60e1c07375b12e9b79926--iridescent-faun-995e00.netlify.app/",
@@ -48,7 +48,7 @@
     "image": "https://i.ibb.co/8XD5R9k/cr.png",
     "text": "Tailwind Css, Reactjs , Daisy UI",
     "title": "Course Registration",
-    "description": "A simple course registration website using React JS",
+    "description": "A basic course registration website built with React JS.",
     "subtitle": "A back-end project",
     "buttons": {
       "live": "https://6505db11ca329131e0f4208c--legendary-phoenix-638aa6.netlify.app/",
@@ -59,18 +59,18 @@
     "image": "https://i.ibb.co/PgPRcgn/ecom.png",
     "text": "Tailwind css, vanilla js",
     "title": "eCOM",
-    "description": "Using vanila JS small part of ecommerce website",
+    "description": "A small portion of an e-commerce website implemented using vanilla JavaScript.",
     "subtitle": "A back-end project",
     "buttons": {
-      "live": "https://example.com/live-project3",
-      "code": "https://64e388aeea556031b046b59b--aquamarine-pika-649720.netlify.app/"
+      "live": "https://64e388aeea556031b046b59b--aquamarine-pika-649720.netlify.app/",
+      "code": "https://github.com/Yousufjoy/PH_Tube.git"
     }
   },
   {
     "image": "https://i.ibb.co/0ZScnX7/at.png",
     "text": "Html Css Js ",
     "title": "Fruit Frenzy!",
-    "description": "Static wwebsite designed by Raw CSS",
+    "description": "A static website designed with raw CSS.",
     "subtitle": "A back-end project",
     "buttons": {
       "live": "https://yousufjoy.github.io/Fruit-Frenzy/",
